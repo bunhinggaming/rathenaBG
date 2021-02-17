@@ -1,0 +1,45 @@
+	[8965] = {
+		unidentifiedDisplayName = "Blue Skull",
+		unidentifiedResourceName = "blueskull",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Blue Skull",
+		identifiedResourceName = "blueskull",
+		identifiedDescriptionName = {
+			"[^FFA500Battlegrounds^000000]",
+			"A skull of a killed Guillaume Warrior.",
+			"^ffffff_^000000",
+			"Weight: ^7777777^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[8966] = {
+		unidentifiedDisplayName = "Red Skull",
+		unidentifiedResourceName = "redskull",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Red Skull",
+		identifiedResourceName = "redskull",
+		identifiedDescriptionName = {
+			"[^FFA500Battlegrounds^000000]",
+			"A skull of a killed Croix Warrior.",
+			"^ffffff_^000000",
+			"Weight: ^7777777^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[8967] = {
+		unidentifiedDisplayName = "Green Skull",
+		unidentifiedResourceName = "greenskull",
+		unidentifiedDescriptionName = { "..." },
+		identifiedDisplayName = "Green Skull",
+		identifiedResourceName = "greenskull",
+		identifiedDescriptionName = {
+			"[^FFA500Battlegrounds^000000]",
+			"A skull of a killed Traitor Warrior.",
+			"^ffffff_^000000",
+			"Weight: ^7777777^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},

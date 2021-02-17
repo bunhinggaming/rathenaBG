@@ -1,0 +1,7 @@
+JobNameTable = {
+
+	-- Battleground Bossnia --
+	[jobtbl.JT_BAPHOMET_BOSSNIA] = "BAPHOMET",
+	[jobtbl.JT_LORD_OF_DEATH_BOSSNIA] = "LORD_OF_DEATH",
+	[jobtbl.JT_THANATOS_BOSSNIA] = "THANATOS",
+}

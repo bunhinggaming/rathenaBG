@@ -1,0 +1,7 @@
+jobtbl = {
+
+	-- Battleground Bossnia --
+	JT_BAPHOMET_BOSSNIA = 21406,
+	JT_LORD_OF_DEATH_BOSSNIA = 21407,
+	JT_THANATOS_BOSSNIA = 21408,
+}

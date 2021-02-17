@@ -1,0 +1,37 @@
+//===== Battleground Rank Rewards =======================================
+//    Extended Battleground
+//= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+// Date:
+//  10-10-2019
+// By:
+//  Easycore         (Zephyrus, original author)
+//
+// Contact:
+//    - Facebook: https://www.facebook.com/EasycoreRo/
+//    - rAthena:  https://rathena.org/board/profile/16425-easycore/
+//    - Discord:  Easycore#3412
+//= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+// Structure of Database:
+// ItemID,Amount,Zeny
+//= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+
+//Rank 1
+501,11,10000
+//Rank 2
+501,10,9000
+//Rank 3
+501,9,8000
+//Rank 4
+501,8,7000
+//Rank 5
+501,7,6000
+//Rank 6
+501,6,5000
+//Rank 7
+501,5,4000
+//Rank 8
+501,4,3000
+//Rank 9
+501,3,2000
+//Rank 10
+501,2,1000

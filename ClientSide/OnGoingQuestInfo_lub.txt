@@ -1,0 +1,8 @@
+	[8600] = {
+		Title = "Battleground Cooldown",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You are a Deserter. You can't participate until the indicator goes off."
+		},
+		Summary = "Deserter"
+	},
